@@ -1,6 +1,4 @@
-# welcome to my page!
-
-im nova/alice and i mostly do html css and php 
-and im kind of learning javascript on and off
-im very much a begginer but
-yeah thats who i am!
+im alice/nova i develop things
+my main project is [my site](https://novassite) which is semi-closed source due to the fact its selfhosted and has hardcoded api keys.
+however if you see any code you want ill hand it over.
+i mainly work in php html and css for the time being, however im trying to figure out nodejs and python.
