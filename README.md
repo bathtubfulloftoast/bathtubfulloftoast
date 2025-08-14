@@ -1,5 +1,5 @@
 im alice/nova i develop things
 
-my main project is [my site](https://novassite.net) which is hosted [here on github](https://github.com/bathtubfulloftoast/novassite)
+my main project is [my site](https://novassite.net) which is hosted on  [git.gay](https://github.com/bathtubfulloftoast/novassite](https://git.gay/bathtubfulloftoast/novassite)
 
-i mainly work in php html and css for the time being, however im trying to figure out javascript.
+im somewhat switching from github due to the CEO change, but if the site isnt filled with even more AI slop ill move my site back over here
