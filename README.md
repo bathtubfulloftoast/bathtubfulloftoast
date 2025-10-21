@@ -2,6 +2,22 @@
 welcome to my git.gay profile!
 i use git.gay as my primary git provider (*though i do backup things seperately*)
 
-my main project is [my site](https://novassite.net) which is sourced [here](https://git.gay/bathtubfulloftoast/novassite)!
+# Projects
 
-i dick around with things sometimes
+## [Novas Site](/bathtubfulloftoast/novassite)
+this is my main project (and the only one that i actually add to)
+
+## [Jules Site](/bathtubfulloftoast/julessite)
+shitpost
+
+## [errorpages](/bathtubfulloftoast/errorpages)
+a project that only exists because i wanted to have my fursona in the 502 nginx error
+
+## [DailyMan](/bathtubfulloftoast/dailyman)
+a discord script that sends a random image from an immich album according to a cron timer.
+
+## [last.fm converter](/bathtubfulloftoast/lastfmconverter)
+a now defunct converter for last.fm album covers that allowed for more sizes than the default.
+
+## [julesbot](/bathtubfulloftoast/julesbot)
+jules
