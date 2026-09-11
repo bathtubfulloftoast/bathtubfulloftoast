@@ -2,19 +2,19 @@
 welcome to my profile!
 i use quite a few git providers just in case one ends up going down
 
-however i primarily use [my own self-hosted forgejo instance](https://git.novassite.net) or **Evil Git** *(git bent)* as i like to call it
+however for personal projects i primarily use [my own self-hosted forgejo instance](https://git.novassite.net) or **Evil Git** *(git bent)* as i like to call it
 
-though ill try my damnedest to keep things backed up elsewhere
+though i still like to keep things backed up elsewhere
 
-# Projects
+# Main Projects
 
 not all of these will end up with mirrors elsewhere, also these links will be to EvilGit so if its down its probably here!
 
 * [Novas Site](https://git.novassite.net/bathtubfulloftoast/novassite)
-this is my main project (and the one ive kept around the longest)
+this is my main project and serves as my main portfolio, this will link to any project i am currently working on.
 
-* [Novas Diary](https://git.novassite.net/bathtubfulloftoast/diary)
-a secondary project (not the best, mostly just for myself)
+* [Novas Bot](https://git.novassite.net/bathtubfulloftoast/novabot)
+the discord bot linked to novassite, i separated it to mess with submodules and have a general jump-off point for any other discord bot
 
 * [ThumPy](https://git.novassite.net/bathtubfulloftoast/thumpy)
 a basic python-based image proxy software that supports resizing (primarily out of spite for last.fm)
