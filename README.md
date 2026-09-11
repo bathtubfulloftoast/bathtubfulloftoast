@@ -13,7 +13,7 @@ not all of these will end up with mirrors elsewhere, also these links will be to
 * [Novas Site](https://git.novassite.net/bathtubfulloftoast/novassite)
 this is my main project and serves as my main portfolio, this will link to any project i am currently working on.
 
-* [Novas Bot](https://git.novassite.net/bathtubfulloftoast/novabot)
+* [Nova Bot](https://git.novassite.net/bathtubfulloftoast/novabot)
 the discord bot linked to novassite, i separated it to mess with submodules and have a general jump-off point for any other discord bot
 
 * [ThumPy](https://git.novassite.net/bathtubfulloftoast/thumpy)
