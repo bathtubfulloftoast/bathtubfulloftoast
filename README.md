@@ -6,6 +6,8 @@ however for personal projects i primarily use [my own self-hosted forgejo instan
 
 though i still like to keep things backed up elsewhere
 
+i am a member of [Reverie Projects](https://modrinth.com/organization/reverie) :)
+
 # Main Projects
 
 not all of these will end up with mirrors elsewhere, also these links will be to EvilGit so if its down its probably here!
