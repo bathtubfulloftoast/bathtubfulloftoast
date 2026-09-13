@@ -26,3 +26,15 @@ a godot game thats like cookie clicker (mostly for fun slow progress)
 
 * [DailyMan](https://git.novassite.net/bathtubfulloftoast/DailyMan)
 a NodeJS script that will send an image from a copyparty instance to discord while giving it a random name
+
+<!--
+# Profiles
+
+https://git.novassite.net/bathtubfulloftoast
+https://git.gay/bathtubfulloftoast
+https://gitea.com/bathtubfulloftoast
+https://codeberg.org/bathtubfulloftoast
+https://git.nostalgica.net/bathtubfulloftoast
+https://gitlab.com/bathtubfulloftoast
+https://github.com/bathtubfulloftoast
+-->
