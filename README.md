@@ -4,6 +4,9 @@ i use quite a few git providers just in case one ends up going down
 
 however for most personal projects i primarily use [my own self-hosted forgejo instance](https://git.novassite.net)
 
+if you want to hear about what im doing go to [novassite.net](https://novassite.net) or my [bluesky](https://bsky.app/profile/did:plc:mduct3cjciyspc54dla3uqm6)
+
+
 # Main Projects
 
 not all of these will end up with mirrors elsewhere, also these links will be to EvilGit so if its down its probably here!
