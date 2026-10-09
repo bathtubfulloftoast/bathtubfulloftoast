@@ -26,6 +26,14 @@ a godot game thats like cookie clicker i made for fun
 * [DailyMan](https://git.novassite.net/bathtubfulloftoast/DailyMan)
 a NodeJS script that will send an image from a copyparty instance to discord while giving it a random name
 
+# if you wish to hire me
+if you want to hire me/give me a job please ensure
+
+1. you have gone to [my forgejo](https://git.novassite.net) and have actually seen my projects and my capabilities.
+2. you are not an AI company, im not working for someone who cannot 100% assure me job security.
+3. end your email with the word "persnickety" there are alot of bots scraping github currently and i won't be interested if you dont put in the work to actually e-mail me.
+4. keep your offer over e-mail, you're already speaking to me through an efficient mode of communication.
+
 <!--
 # Profiles
 
